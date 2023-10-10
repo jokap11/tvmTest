@@ -1,6 +1,6 @@
 # tvmTest
 
-##Requirements:
+## Requirements:
  - Python3 and pip installed
  - TVM api installed with python API and TVMC
 
@@ -10,5 +10,5 @@
 - Install pip deps for tvmc: `pip3 install numpy decorator attrs typing-extensions psutil scipy onnx`
 
 ## Run the whole program with this bash script ( AWS provided an example)
-./main.sh
+ - ./main.sh
 
